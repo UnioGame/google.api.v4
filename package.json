@@ -3,8 +3,8 @@
   "author": "Mefodei",
   "displayName": "UniGames Google Sheet API V4 for Unity",
   "description": "Google API V4 for Unity",
-  "unity": "2022.3",
-  "version": "2024.0.0",
+  "unity": "2020.1",
+  "version": "2024.0.1",
   "keywords": [
     "nodes",
     "spreadsheet",
