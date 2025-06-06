@@ -1,5 +1,7 @@
 # Getting Started
 
+Google API V.4
+
 ## How to Install
 
 Add to your project manifiest by path [%UnityProject%]/Packages/manifiest.json new dependency:
