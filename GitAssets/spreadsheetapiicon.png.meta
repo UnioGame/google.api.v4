@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spreadsheetapiicon_0: 536280403338605105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
